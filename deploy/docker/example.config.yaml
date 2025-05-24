@@ -1,9 +1,9 @@
 bot:
   # get bot token from https://t.me/botfather
-  token: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  token: 7591274283:AAHP6MAcMfhftwsdo8v_HHo5ogz4Nun320I
 
 # chat id for redirect messages
-chat_id: -100XXXXXXXXXXXXX
+chat_id: -1002589352623
 
 # Fill variables below as you want, or use default values.
 # You can use HTML tags provided by the sulguk package.
